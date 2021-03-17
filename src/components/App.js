@@ -1,6 +1,5 @@
 import SceneModelingSpace from "./SceneModelingSpace";
-
-import logo from "../logo.svg";
+import "../styles/App.css";
 
 function App() {
   return (
