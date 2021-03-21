@@ -1,10 +1,10 @@
-import SceneModelingSpace from "./SceneModelingSpace";
+import Scene from "./Scene";
 import "../styles/App.css";
 
 function App() {
   return (
     <div className="App">
-      <SceneModelingSpace />
+      <Scene />
     </div>
   );
 }
